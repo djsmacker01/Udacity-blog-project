@@ -159,6 +159,11 @@ p{
   color: cyan;
 }
 
+.flex{
+  display: flex;
+  flex-direction: row;
+}
+
 @media (max-width: 860px){
 
 
